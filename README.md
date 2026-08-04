@@ -1,0 +1,2 @@
+# AI-200-Azure-Learn
+This is a repository which has resources and training material required to study for the Microsoft AI-200 Azure AI Cloud Developer Associate Certification Exam.
