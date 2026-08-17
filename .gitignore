@@ -1,0 +1,30 @@
+# Environment / secrets
+.env
+.env.*
+*.env
+.env.ps1
+
+# Azure CLI / credentials
+.azure/
+*.pfx
+*.pem
+*.key
+*.publishsettings
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
